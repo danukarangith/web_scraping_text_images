@@ -28,3 +28,14 @@ To run this project, you need the following libraries installed:
 ### Install the required dependencies
 ```bash
 pip install requests beautifulsoup4 pandas xlsxwriter
+
+
+# project structure
+```bash
+
+web-scraping-image-text/
+│
+├── web.py              # Main Python script for scraping and saving data
+├── images/            # Directory where the scraped image is saved
+└── README.md          # Project description and instructions
+
