@@ -22,6 +22,9 @@ To run this project, you need the following libraries installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/web-scraping-image-text.git
+   git clone https://github.com/danukarangith/web-scraping-image-text.git
    cd web-scraping-image-text
  
+### Install the required dependencies
+
+pip install requests beautifulsoup4 pandas xlsxwriter
