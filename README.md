@@ -26,5 +26,5 @@ To run this project, you need the following libraries installed:
    cd web-scraping-image-text
  
 ### Install the required dependencies
-
+```bash
 pip install requests beautifulsoup4 pandas xlsxwriter
