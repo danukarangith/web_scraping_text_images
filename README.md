@@ -30,7 +30,9 @@ To run this project, you need the following libraries installed:
 pip install requests beautifulsoup4 pandas xlsxwriter
 
 
-# project structure
+1.  project structure
+
+
 ```bash
 
 web-scraping-image-text/
