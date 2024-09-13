@@ -32,9 +32,7 @@ pip install requests beautifulsoup4 pandas xlsxwriter
 
 1.  project structure
 
-
-```bash
-
+ 
 web-scraping-image-text/
 │
 ├── web.py              # Main Python script for scraping and saving data
